@@ -16,11 +16,11 @@ This project explores how macroeconomic variables such as inflation, interest ra
 
 ## Case Study Examples
 Companies referenced in the analysis include:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
+- Nestlé
+- Unilever
+- Apple
+- Microsoft
+- Delta Air Lines
 
 ## Key Insights
 - Inflation, interest rates, and GDP growth explain a majority of business performance across sectors.
