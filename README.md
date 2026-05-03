@@ -250,6 +250,32 @@ The objective is to show how macroeconomic analysis can be translated into real 
 
 ---
 
-# Author
+## 👨‍💼 About Me
 
-Saiteja Jakkula
+Hi, I’m Saiteja Jakkula 👋
+
+Interested in:
+
+* Business Analytics
+* Market Research
+* Strategy
+
+Focus:
+
+* Structured thinking
+* Second-order impact
+* Human + AI decision making
+
+---
+
+## 🔗 Connect with me on LinkedIn
+
+💼 [https://www.linkedin.com/in/jakkula-saiteja/](https://www.linkedin.com/in/jakkula-saiteja/)
+
+---
+
+## ⭐ If you found this useful
+
+Give this repo a ⭐ and feel free to connect!
+
+---
