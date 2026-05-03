@@ -28,7 +28,7 @@ Companies referenced in the analysis include:
 - Asset-light business models perform better during high interest rate environments.
 - Firms that adapt strategy early to macro signals outperform competitors over the long run.
 
-## Tools Used
+## Tools, Skills and Data source Used
 - PowerPoint
 - Strategic Framework Analysis
 - Industry Case Study Research
